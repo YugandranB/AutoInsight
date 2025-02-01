@@ -1,4 +1,4 @@
-# 🚗 **Auto Insight**: Sentiment Analysis on YouTube Video Subtitles
+# **Auto Insight**: Sentiment Analysis on YouTube Video Subtitles
 
 **Auto Insight** is an innovative sentiment analysis tool designed to analyze YouTube video subtitles (both manual and auto-generated). With just an upload, users can get a detailed sentiment analysis report in PDF and Excel formats, including word clouds, sentiment breakdowns, and video metadata. 
 
