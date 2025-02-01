@@ -29,6 +29,10 @@
    - Sentiment analysis results.
    - Word clouds and other visualizations.
 
+## 📸 **UI Preview**
+![UI Preview](https://drive.google.com/uc?export=view&id=1uCcciNecK05u1lCf4nSXoUc_rQI4_w3p)
+
+
 ## 📝 **License**
 
 This project is licensed under the MIT License
